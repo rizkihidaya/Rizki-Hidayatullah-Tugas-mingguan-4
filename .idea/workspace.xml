@@ -54,8 +54,21 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Rizki-Hidayatullah-JC-Ujian-Mingguan-ke-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Rizki-Hidayatullah-JC-Ujian-Mingguan-ke-4" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCalculator.tesKali" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JC-Ujian-Mingguan-ke-4" />
+      <module name="Rizki-Hidayatullah-JC-Ujian-Mingguan-ke-4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.juaracoding.appium.*" />
